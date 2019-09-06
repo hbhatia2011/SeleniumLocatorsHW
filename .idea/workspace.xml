@@ -2,24 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc743d2a-81e7-4929-b358-0e175e7a6f93" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/selenium_server_standalone_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Webdriver Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Webdriver Project/BrowserDriver/EmailaFriend.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Webdriver Project/BrowserDriver/OrangeHrm.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Webdriver Project/BrowserDriver/Register.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Webdriver Project/BrowserDriver/chromedriver.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/BrowserDriver/EmailaFriend.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/BrowserDriver/OrangeHrm.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/BrowserDriver/Register.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/BrowserDriver/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unnamed.patch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -164,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567784439591</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1567785468366</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567785468366</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
